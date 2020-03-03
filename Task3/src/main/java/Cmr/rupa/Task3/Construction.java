@@ -1,6 +1,5 @@
 package Cmr.rupa.Task3;
 
-public class Construction {
 	public class HouseContructionCost {
 		private int materialType;
 		private boolean automatedHome;
